@@ -1,0 +1,11 @@
+1C101A:
+    1st Stage:
+        Discharge Pressure: Number
+        Suction Pressure: Number
+    2nd Stage:
+        Discharge Pressure: Number
+        Suction Pressure: Number
+    Lube Oil Temp: Number
+
+
+1V151 Level: Number
